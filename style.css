@@ -433,11 +433,11 @@ a img.aligncenter {
 }
 
 .in-box{
-	background: #5a4091;
+	background: #05bddd6e;
 	display: inline-block;
 	padding: 40px;
 	position: relative;
-	border: 20px solid #432382;
+	border: 20px solid #000000;
 }
 .in-box::before{
 	border: 10px solid #ffffff;
@@ -489,7 +489,7 @@ a img.aligncenter {
     left: 0;
     right: 0;
     bottom: 0;
-    background: #432382;
+    background: #1176b1;
     -webkit-transform: scale(0);
     transform: scale(0);
     -webkit-transition-property: transform;
